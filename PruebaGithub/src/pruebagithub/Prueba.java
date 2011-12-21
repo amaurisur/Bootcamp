@@ -12,5 +12,11 @@ public class Prueba {
     
     //LALA
     
+    //LALA 02
+    
+    public void Prueba(){
+        
+    }
+    
     
 }
